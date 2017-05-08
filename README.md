@@ -1,1 +1,5 @@
-# NASDAQ-companies
+- Read in NASDAQ list of companies
+- Found the major Sectors
+- Found the major Industries
+- Top 10 companies with the largest Market Cap
+- Top 10 companies with largest Market Cap in Healthcare sector
